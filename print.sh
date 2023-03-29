@@ -13,3 +13,6 @@ echo the $dengineer for ${course}
 a=10
 a=20
 echo $a
+
+b=(10 20)
+echo $(b[1])
