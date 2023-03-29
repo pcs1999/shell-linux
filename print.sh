@@ -9,3 +9,6 @@ dengineer=chandra
 course=devops_trainer
 
 echo the $dengineer for ${course}
+
+a=10
+echo $a
