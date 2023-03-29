@@ -6,5 +6,6 @@ echo  -e  "\e[35m chnadra \e[0m"
 echo  -e  "\e[36m chnadra \e[0m"
 
 dengineer=chandra
+course=devops
 
-echo the $dengineer for devops
+echo the $dengineer for ${course}
