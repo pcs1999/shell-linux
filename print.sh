@@ -11,4 +11,5 @@ course=devops_trainer
 echo the $dengineer for ${course}
 
 a=10
+a=20
 echo $a
