@@ -16,4 +16,4 @@ example () {
   echo "@ - #"
 }
 
-example 
+example
